@@ -1,0 +1,1 @@
+# teams-integrations-footer-part
